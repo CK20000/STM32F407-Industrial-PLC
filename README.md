@@ -2,7 +2,7 @@
 
 A student-accessible, ruggedized industrial PLC platform built around the STM32F407VET6 microcontroller. Designed for educational lab environments, industrial communication protocols, and industrial automation tasks.
 
-<img width="773" height="813" alt="image" src="https://github.com/user-attachments/assets/c0478a95-5cea-4e24-bb1f-b9777cde5e3c" />
+<img width="1289" height="682" alt="image" src="https://github.com/user-attachments/assets/7b7885c3-b70e-4867-8ba2-18b950225cf8" />
 
 ## Core Specifications
 * **MCU:** STM32F407VET6 (ARM Cortex-M4 with FPU, 168 MHz, 512KB Flash, 192KB RAM).
