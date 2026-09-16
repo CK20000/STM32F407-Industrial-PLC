@@ -17,6 +17,3 @@ A student-accessible, ruggedized industrial PLC platform built around the STM32F
 * `hardware/`: KiCad schematic files, PCB layout, Gerber outputs, and BOM.
 * `firmware/`: MCU driver code and demonstration firmware (TBD).
 * `datasheets/`: Reference datasheets for core integrated circuits.
-
-## License
-Open-source hardware released under the CERN-OHL-S v2 license.
